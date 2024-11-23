@@ -34,7 +34,7 @@ searchInput.addEventListener('input', () => {
     const howDidYouDieInputs = ['how did you die', 'how u die', 'how did u die'];
     const whatDoYouWantInputs = ['what do you want', 'what u want', 'what do u want' , 'what you want me to do'];
     const willYouGoIfISingInputs = ['will you go if i sing' , 'are u going to kill me' , 'are you going to kill me', 
-        'are you married', 'are you female', 'are you a fool' , 'are you mad'];
+        'are you married', 'are you female', 'are you a fool' , 'are you mad','are u mad','are u fool'];
 
     if (areYouHereInputs.includes(inputValue)) {
         setTimeout(function(){
